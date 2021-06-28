@@ -1,5 +1,5 @@
 import operator
-text = open("logfile.txt", "r")
+text = open("logfile", "r")
 d = dict()
 ips = []
 i=0
